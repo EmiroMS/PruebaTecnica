@@ -17,7 +17,7 @@ import javax.validation.Valid;
 import com.example.demo.model.Empleados;
 import com.example.demo.service.EmpleadoService;
 
-//Este viene siendo el API REST
+
 @RestController
 public class EmpleadoController {
 
